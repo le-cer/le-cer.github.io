@@ -73,7 +73,7 @@ subtitle: ¿Tienes un proyecto interesante? ¡Hablemos!
           <i class="fas fa-envelope"></i>
           <div>
             <strong>Email</strong><br>
-            <a href="mailto:tu.email@ejemplo.com">tu.email@ejemplo.com</a>
+            <a href="mailto:tu.email@ejemplo.com">x</a>
           </div>
         </div>
         
@@ -81,7 +81,7 @@ subtitle: ¿Tienes un proyecto interesante? ¡Hablemos!
           <i class="fab fa-linkedin"></i>
           <div>
             <strong>LinkedIn</strong><br>
-            <a href="https://linkedin.com/in/tu-perfil" target="_blank">linkedin.com/in/tu-perfil</a>
+            <a href="https://linkedin.com/in/tu-perfil" target="_blank">x</a>
           </div>
         </div>
         
@@ -89,7 +89,7 @@ subtitle: ¿Tienes un proyecto interesante? ¡Hablemos!
           <i class="fab fa-github"></i>
           <div>
             <strong>GitHub</strong><br>
-            <a href="https://github.com/tu-usuario" target="_blank">github.com/tu-usuario</a>
+            <a href="https://github.com/tu-usuario" target="_blank">x</a>
           </div>
         </div>
         
@@ -97,13 +97,13 @@ subtitle: ¿Tienes un proyecto interesante? ¡Hablemos!
           <i class="fab fa-twitter"></i>
           <div>
             <strong>Twitter</strong><br>
-            <a href="https://twitter.com/tu-usuario" target="_blank">@tu-usuario</a>
+            <a href="https://twitter.com/tu-usuario" target="_blank">x</a>
           </div>
         </div>
       </div>
       
       <div class="availability-status">
-        <h4>📅 Disponibilidad</h4>
+        <h4> Disponibilidad</h4>
         <div class="status-indicator available">
           <span class="status-dot"></span>
           Disponible para nuevos proyectos
@@ -112,13 +112,13 @@ subtitle: ¿Tienes un proyecto interesante? ¡Hablemos!
       </div>
       
       <div class="collaboration-types">
-        <h4>🤝 Tipos de Colaboración</h4>
+        <h4> Tipos de Colaboración</h4>
         <ul>
-          <li>✅ Proyectos freelance</li>
-          <li>✅ Consultoría técnica</li>
-          <li>✅ Investigación colaborativa</li>
-          <li>✅ Mentoring y capacitación</li>
-          <li>✅ Oportunidades de empleo</li>
+          <li> Proyectos freelance</li>
+          <li> Consultoría técnica</li>
+          <li> Investigación colaborativa</li>
+          <li> Mentoring y capacitación</li>
+          <li> Oportunidades de empleo</li>
         </ul>
       </div>
     </div>
