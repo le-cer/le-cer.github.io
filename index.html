@@ -1,64 +1,119 @@
 ---
-layout: page
-title: Leticia Cervieri
-subtitle: Especialista en NLP, SEO y Análisis de Datos
+layout: home
+title: Especialista en NLP • SEO • Data Science
+subtitle: Transformando datos en insights accionables mediante IA y machine learning
+use-site-title: true
 ---
 
-<style>
-  .hero-section {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 2rem;
-  }
-  .hero-text {
-    flex: 2; /* Ocupa más espacio */
-  }
-  .hero-photo {
-    flex: 1; /* Ocupa menos espacio */
-    text-align: center;
-  }
-  .hero-photo img {
-    width: 250px;
-    height: 250px;
-    border-radius: 50%; /* Esto la hace redonda */
-    border: 3px dashed #ccc;
-    object-fit: cover;
-  }
-  .hero-buttons {
-    margin-top: 1.5rem;
-    display: flex;
-    gap: 1rem;
-  }
-  .btn-primary {
-    background-color: #3366cc;
-    color: white;
-    padding: 10px 20px;
-    border-radius: 5px;
-    text-decoration: none;
-  }
-  .btn-secondary {
-    background-color: white;
-    color: #3366cc;
-    padding: 10px 20px;
-    border-radius: 5px;
-    border: 1px solid #3366cc;
-    text-decoration: none;
-  }
-</style>
-
-<div class="hero-section">
-  <div class="hero-text">
-    <p>[Resumen de 2-3 oraciones sobre tu experiencia en procesamiento de lenguaje natural, optimización para motores de búsqueda y análisis de datos. Destaca tu enfoque único y valor que aportas a los proyectos.]</p>
-    
-    <div class="hero-buttons">
-      <a href="/proyectos" class="btn-primary">Ver Proyectos</a>
-      <a href="mailto:leticia.cervieri@gmail.com" class="btn-secondary">Contactar</a>
+<div class="posts-list">
+  <div class="intro-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <div class="site-heading">
+            <h1>Leticia Cervieri</h1>
+            <hr class="small">
+            <span class="subheading">
+              Especialista en <strong>Procesamiento de Lenguaje Natural</strong>, 
+              <strong>SEO</strong> y <strong>Análisis de Datos</strong>.
+            </span>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 
-  <div class="hero-photo">
-    <!-- Reemplaza 'URL_DE_TU_FOTO' con el enlace a tu foto -->
-    <img src="https://github.com/le-cer/le-cer.github.io/blob/master/profile-picture(2)_1.png" alt="Foto Profesional de [Tu Nombre]">
+  <!-- Sección de especialidades -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="specialties-section">
+          <h2>Especialidades</h2>
+          <div class="row">
+            <div class="col-md-4">
+              <div class="specialty-box">
+                <h3>🤖 NLP</h3>
+                <p>Análisis de sentimientos, chatbots inteligentes, topic modeling y sistemas RAG</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="specialty-box">
+                <h3>🔍 SEO</h3>
+                <p>Optimización técnica, análisis de keywords, growth hacking y estrategias de contenido</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="specialty-box">
+                <h3>📊 Data Science</h3>
+                <p>Machine learning, visualización de datos, análisis predictivo y dashboards</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Proyectos destacados -->
+        <div class="featured-projects">
+          <h2>Proyectos Destacados</h2>
+          <div class="project-grid">
+            {% for project in site.data.projects limit:3 %}
+            <div class="project-card">
+              <h3><a href="{{ project.url }}">{{ project.name }}</a></h3>
+              <p>{{ project.description }}</p>
+              <div class="project-tech">
+                {% for tech in project.technologies %}
+                <span class="tech-tag">{{ tech }}</span>
+                {% endfor %}
+              </div>
+              <div class="project-results">
+                <strong>Resultado:</strong> {{ project.impact }}
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+          <div class="text-center">
+            <a href="/projects" class="btn btn-primary">Ver Todos los Proyectos</a>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
+
+<style>
+.specialty-box {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease;
+}
+
+.specialty-box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.project-card {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background: #fff;
+}
+
+.tech-tag {
+  background: #007bff;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  margin-right: 5px;
+}
+
+.project-results {
+  color: #28a745;
+  font-weight: 500;
+  margin-top: 10px;
+}
+</style>
