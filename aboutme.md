@@ -8,7 +8,7 @@ subtitle: Mi trayectoria en NLP, SEO y Data Science
 
 Soy una especialista en **Procesamiento de Lenguaje Natural**, **SEO** y **Análisis de Datos** con 15 de experiencia transformando datos complejos en insights accionables. Mi pasión radica en crear soluciones tecnológicas que generen impacto real en organizaciones y usuarios.
 
-### 🎓 Formación Académica
+### Formación Académica
 
 - **Economía Digital del Lenguaje e Inteligencia Artificial** - Universidad de La Rioja (2025)
 - **Bootcamp en Data Science** - CodeOp (2024)
@@ -16,7 +16,7 @@ Soy una especialista en **Procesamiento de Lenguaje Natural**, **SEO** y **Anál
 - **Licenciatura en Lingüística** - UDELAR (fase final)
 
 
-### 💼 Experiencia Profesional
+### Experiencia Profesional
 
 **SEO Specialist** - Emagister (2013 - 2023)
 - Implementé estrategias SEO que incrementaron el tráfico orgánico en un 65%
@@ -25,14 +25,14 @@ Soy una especialista en **Procesamiento de Lenguaje Natural**, **SEO** y **Anál
 **Content Manager** - Emagister (2007 - 2012)
 - 
 
-### 🏆 Logros Destacados
+### Logros Destacados
 
 - **+85% precisión** en modelos de clasificación de texto
 - **+300% crecimiento** en tráfico orgánico mediante estrategias SEO
 - **10+ proyectos** de análisis de datos con impacto empresarial medible
 - **3** artículos publicados sobre NLP y análisis de datos
 
-### 🚀 Filosofía de Trabajo
+### Filosofía de Trabajo
 
 Creo firmemente en el poder de los datos para transformar organizaciones. Mi enfoque combina:
 
@@ -41,7 +41,7 @@ Creo firmemente en el poder de los datos para transformar organizaciones. Mi enf
 - **Comunicación clara** para traducir insights complejos en acciones concretas
 - **Aprendizaje continuo** en un campo que evoluciona constantemente
 
-### 🎯 Áreas de Especialización
+### Áreas de Especialización
 
 #### Procesamiento de Lenguaje Natural
 - Análisis de sentimientos y clasificación de texto
@@ -61,13 +61,13 @@ Creo firmemente en el poder de los datos para transformar organizaciones. Mi enf
 - Dashboards interactivos con Tableau/Power BI
 - A/B testing y experimentación
 
-### 📚 Publicaciones y Contribuciones
+### Publicaciones y Contribuciones
 
 - **Blog personal:** Artículos sobre tendencias en NLP y SEO
 - **GitHub:** [X] repositorios
 
 
-### 🌱 Intereses Personales
+### Intereses Personales
 
 Cuando no estoy analizando datos, disfruto del cine.
 
