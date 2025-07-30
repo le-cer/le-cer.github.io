@@ -23,6 +23,9 @@ description: >-
 # Change to the URL of your website
 url: https://le-cer.github.io/
 
+# Poner en 'true' para bloquear la indexación de buscadores durante el desarrollo
+block_search_indexing: true
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
