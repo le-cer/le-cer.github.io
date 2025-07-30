@@ -1,0 +1,35 @@
+- name: "Análisis del Lenguaje Tóxico en Español"
+  description: "Sistema de clasificación para detectar contenido tóxico usando BERT preentrenado"
+  category: "nlp"
+  technologies: ["Python", "BERT", "Transformers", "scikit-learn"]
+  impact: "87% de precisión, % reducción en falsos positivos"
+  url: "#"
+  status: "completed"
+  date: "2023"
+
+- name: "Predicción del Feedback en RAG"
+  description: "Modelo ML para predecir la calidad del feedback en interacciones RAG"
+  category: "nlp"
+  technologies: ["Python", "Machine Learning", "LangChain", "FastAPI"]
+  impact: "% precisión en predicción de satisfacción del usuario"
+  url: "#"
+  status: "completed"
+  date: "2024"
+
+- name: "Dashboard SEO - AIO"
+  description: "Dashboard all-in-one para monitoreo SEO de múltiples clientes"
+  category: "seo"
+  technologies: ["Python", "Dash", "Google APIs", "PostgreSQL"]
+  impact: "% reducción en tiempo de reportes, + clientes monitoreados"
+  url: "#"
+  status: "."
+  date: "."
+
+- name: "MiBiblio: Análisis Bibliotecario"
+  description: "Análisis completo de préstamos bibliotecarios con visualización y NLP"
+  category: "data"
+  technologies: ["Python", "Pandas", "Matplotlib", "LDA", "Streamlit"]
+  impact: " categorías temáticas identificadas, patrones estacionales detectados"
+  url: "#"
+  status: "."
+  date: "."
