@@ -142,19 +142,19 @@ subtitle: Stack tecnológico y competencias profesionales
       <div class="col-md-6">
         <h3>Habilidades Técnicas</h3>
         <ul class="competency-list">
-          <li>✅ **Pensamiento Analítico:** Capacidad para descomponer problemas complejos en componentes manejables</li>
-          <li>✅ **Visualización de Datos:** Creación de dashboards e infografías que comunican insights claramente</li>
-          <li>✅ **Automatización:** Desarrollo de pipelines y procesos que reducen trabajo manual</li>
-          <li>✅ **Testing y Validación:** Implementación de pruebas A/B y validación estadística</li>
+          <li> **Pensamiento Analítico:** Capacidad para descomponer problemas complejos en componentes manejables</li>
+          <li> **Visualización de Datos:** Creación de dashboards e infografías que comunican insights claramente</li>
+          <li> **Automatización:** Desarrollo de pipelines y procesos que reducen trabajo manual</li>
+          <li> **Testing y Validación:** Implementación de pruebas A/B y validación estadística</li>
         </ul>
       </div>
       <div class="col-md-6">
         <h3>Habilidades Blandas</h3>
         <ul class="competency-list">
-          <li>✅ **Comunicación Técnica:** Traducción de resultados complejos a stakeholders no técnicos</li>
-          <li>✅ **Gestión de Proyectos:** Experiencia con metodologías ágiles y entrega de proyectos en tiempo</li>
-          <li>✅ **Aprendizaje Continuo:** Adaptación rápida a nuevas tecnologías y frameworks</li>
-          <li>✅ **Trabajo en Equipo:** Colaboración efectiva con equipos multidisciplinarios</li>
+          <li> **Comunicación Técnica:** Traducción de resultados complejos a stakeholders no técnicos</li>
+          <li> **Gestión de Proyectos:** Experiencia con metodologías ágiles y entrega de proyectos en tiempo</li>
+          <li> **Aprendizaje Continuo:** Adaptación rápida a nuevas tecnologías y frameworks</li>
+          <li> **Trabajo en Equipo:** Colaboración efectiva con equipos multidisciplinarios</li>
         </ul>
       </div>
     </div>
