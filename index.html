@@ -1,5 +1,64 @@
 ---
-layout: home
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+layout: page
+title: Leticia Cervieri
+subtitle: Especialista en NLP, SEO y Análisis de Datos
 ---
+
+<style>
+  .hero-section {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+  .hero-text {
+    flex: 2; /* Ocupa más espacio */
+  }
+  .hero-photo {
+    flex: 1; /* Ocupa menos espacio */
+    text-align: center;
+  }
+  .hero-photo img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%; /* Esto la hace redonda */
+    border: 3px dashed #ccc;
+    object-fit: cover;
+  }
+  .hero-buttons {
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 1rem;
+  }
+  .btn-primary {
+    background-color: #3366cc;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  .btn-secondary {
+    background-color: white;
+    color: #3366cc;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid #3366cc;
+    text-decoration: none;
+  }
+</style>
+
+<div class="hero-section">
+  <div class="hero-text">
+    <p>[Resumen de 2-3 oraciones sobre tu experiencia en procesamiento de lenguaje natural, optimización para motores de búsqueda y análisis de datos. Destaca tu enfoque único y valor que aportas a los proyectos.]</p>
+    
+    <div class="hero-buttons">
+      <a href="/proyectos" class="btn-primary">Ver Proyectos</a>
+      <a href="mailto:leticia.cervieri@gmail.com" class="btn-secondary">Contactar</a>
+    </div>
+  </div>
+
+  <div class="hero-photo">
+    <!-- Reemplaza 'URL_DE_TU_FOTO' con el enlace a tu foto -->
+    <img src="https://github.com/le-cer/le-cer.github.io/blob/master/profile-picture(2)_1.png" alt="Foto Profesional de [Tu Nombre]">
+  </div>
+</div>
