@@ -172,4 +172,8 @@
     {% endfor %}
   {% endif %}
 
+{%- if site.block_search_indexing == true -%}
+  <meta name="robots" content="noindex, nofollow">
+{%- endif -%}
+  
 </head>
