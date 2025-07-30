@@ -15,7 +15,7 @@ subtitle: Portfolio de trabajos en NLP, SEO y Data Science
 
   <!-- Proyectos NLP -->
   <div class="project-section" data-category="nlp">
-    <h2>🤖 Procesamiento del Lenguaje Natural</h2>
+    <h2> Procesamiento del Lenguaje Natural</h2>
     
     <div class="project-item">
       <h3>Análisis del Lenguaje Tóxico en Español</h3>
@@ -40,9 +40,9 @@ subtitle: Portfolio de trabajos en NLP, SEO y Data Science
       <div class="project-results">
         <h4>Resultados:</h4>
         <ul>
-          <li>✅ <strong>% de precisión</strong> en clasificación </li>
-          <li>✅ <strong>Reducción del %</strong> en falsos positivos vs. sistemas anteriores</li>
-          <li>✅ <strong>Procesamiento en tiempo real</strong> de + textos por minuto</li>
+          <li> <strong>% de precisión</strong> en clasificación </li>
+          <li> <strong>Reducción del %</strong> en falsos positivos vs. sistemas anteriores</li>
+          <li> <strong>Procesamiento en tiempo real</strong> de + textos por minuto</li>
         </ul>
       </div>
       
@@ -73,8 +73,8 @@ subtitle: Portfolio de trabajos en NLP, SEO y Data Science
       <div class="project-results">
         <h4>Resultados Preliminares:</h4>
         <ul>
-          <li>✅ <strong>% relevancia</strong> en respuestas generadas</li>
-          <li>✅ <strong>Reducción del %</strong> en tiempo de búsqueda bibliográfica</li>
+          <li> <strong>% relevancia</strong> en respuestas generadas</li>
+          <li> <strong>Reducción del %</strong> en tiempo de búsqueda bibliográfica</li>
         </ul>
       </div>
       
@@ -87,7 +87,7 @@ subtitle: Portfolio de trabajos en NLP, SEO y Data Science
 
   <!-- Proyectos SEO -->
   <div class="project-section" data-category="seo">
-    <h2>🔍 SEO y Marketing Digital</h2>
+    <h2> SEO y Marketing Digital</h2>
     
     <div class="project-item">
       <h3>Dashboard SEO - AIO (All-in-One)</h3>
@@ -110,9 +110,9 @@ subtitle: Portfolio de trabajos en NLP, SEO y Data Science
       <div class="project-results">
         <h4>Resultados:</h4>
         <ul>
-          <li>✅ <strong>Reducción del %</strong> en tiempo de reportes manuales</li>
-          <li>✅ <strong>+ clientes</strong> monitoreados simultáneamente</li>
-          <li>✅ <strong>Detección automática</strong> de caídas de tráfico en <24h</li>
+          <li> <strong>Reducción del %</strong> en tiempo de reportes manuales</li>
+          <li> <strong>+ clientes</strong> monitoreados simultáneamente</li>
+          <li> <strong>Detección automática</strong> de caídas de tráfico en <24h</li>
         </ul>
       </div>
       
@@ -125,7 +125,7 @@ subtitle: Portfolio de trabajos en NLP, SEO y Data Science
 
   <!-- Proyectos Data Science -->
   <div class="project-section" data-category="data">
-    <h2>📊 Análisis de Datos y Machine Learning</h2>
+    <h2> Análisis de Datos y Machine Learning</h2>
     
     <div class="project-item">
       <h3>MiBiblio: Análisis de Préstamos Bibliotecarios</h3>
@@ -149,9 +149,9 @@ subtitle: Portfolio de trabajos en NLP, SEO y Data Science
       <div class="project-results">
         <h4>Resultados:</h4>
         <ul>
-          <li>✅ <strong> categorías temáticas</strong> identificadas automáticamente</li>
-          <li>✅ <strong>Patrones estacionales</strong> en préstamos detectados</li>
-          <li>✅ <strong>Recomendaciones</strong> para optimización de inventario</li>
+          <li> <strong> categorías temáticas</strong> identificadas automáticamente</li>
+          <li> <strong>Patrones estacionales</strong> en préstamos detectados</li>
+          <li> <strong>Recomendaciones</strong> para optimización de inventario</li>
         </ul>
       </div>
       
